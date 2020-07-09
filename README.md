@@ -1,4 +1,4 @@
-# Microsoft-Scholarship-Foundation-course-Nanodegree-Program
+# Microsoft Scholarship Foundation course Nanodegree Program
 
 ## [Lesson 1: Welcome to Introduction to Machine Learning on Azure](./01-Introduction-to-Machine-Learning-on-Azure/)
 
