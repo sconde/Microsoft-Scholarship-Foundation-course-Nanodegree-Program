@@ -19,3 +19,8 @@ Here are the main topics we'll cover:
 *   The trade-offs that come up when making decisions about how to design and training machine learning models
 
 In the process, you will also train your first machine learning model using Azure Machine Learning Studio.
+
+
+## References 
+
+- [Machine Learning | An Introduction](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
