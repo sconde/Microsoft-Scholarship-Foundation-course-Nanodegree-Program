@@ -39,12 +39,12 @@ An important step in preparing your data for machine learning is _extracting_ th
 
 Have a look at this data:
 
-   | ID  | Name   | Species | Age |
-   | --- | ---    | ---     | --- |
-   | 1   | Jake   | Cat     | 3   |
-   | 2   | Bailey | Dog     | 7   |
-** | 3   | Jenna  | Dog     | 4   | **
-   | 4   | Marco  | Cat     | 12  |
+| ID  | Name   | Species | Age |
+| --- | ---    | ---     | --- |
+| 1   | Jake   | Cat     | 3   |
+| 2   | Bailey | Dog     | 7   |
+| 3   | Jenna  | Dog     | 4   |
+| 4   | Marco  | Cat     | 12  |
 
 
 Which of the following terms might we use to refer to the part of the table that is highlighted?
